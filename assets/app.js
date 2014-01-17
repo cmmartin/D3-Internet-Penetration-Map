@@ -31720,7 +31720,7 @@ angular.module('ngAnimate', ['ng'])
   });
 ;angular.module('myApp', ['ngRoute', 'app.homePage'])
 
-  .constant('TPL_PATH', '/templates')
+  .constant('TPL_PATH', 'templates')
 
   .constant('MAP_COLOR', 'red')
 
