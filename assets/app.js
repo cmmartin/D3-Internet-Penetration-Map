@@ -31716,7 +31716,7 @@ angular.module('ngAnimate', ['ng'])
   });
 ;angular.module('myApp', ['ngRoute', 'app.homePage'])
 
-  .constant('TPL_PATH', 'D3-Internet-Penetration-Map/templates')
+  .constant('TPL_PATH', 'templates')
 
   .constant('MAP_COLOR', 'red')
 
