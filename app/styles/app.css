@@ -1,0 +1,42 @@
+/* Application specific styles */
+html, body { 
+  margin:0; 
+  padding:0; 
+}
+
+.wrapper {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+svg { 
+  background: #BFEFFF;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slider input {
+  width: 100%;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.info {
+  font-size: 32px;
+}
+
+.play {
+  position: relative;
+
+}
